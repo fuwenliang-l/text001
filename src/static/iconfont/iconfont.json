@@ -1,0 +1,58 @@
+{
+  "id": "1780091",
+  "name": "douyin_h5_project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2956358",
+      "name": "add",
+      "font_class": "add1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5117238",
+      "name": "心",
+      "font_class": "xin",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "792256",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1120925",
+      "name": "comment",
+      "font_class": "comment",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7192335",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11124967",
+      "name": "直播",
+      "font_class": "15",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12780601",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}
